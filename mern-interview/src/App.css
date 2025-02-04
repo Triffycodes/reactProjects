@@ -1,0 +1,15 @@
+.viewport{
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.circle{
+  position: absolute;
+  border-radius: 50%;
+  border: 1px solid;
+  border-color: black;
+}
+
